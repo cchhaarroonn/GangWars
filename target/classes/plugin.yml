@@ -1,0 +1,20 @@
+name: GangWars
+version: '1.0'
+main: gay.charon.gangwars.GangWars
+api-version: 1.18
+authors: [ charon ]
+description: Get in your gang and battle with another gang, gang with most kills wins!
+website: charon.gay
+commands:
+  joingang:
+    description: Join in one gang so you can battle against another gang
+  leavegang:
+    description: Leave gang if you want to change gangs or if you just want to leave
+  setspawn:
+    description: Set spawn location for your gangs
+  bow:
+    description: Get bow so you can play
+  ammo:
+    description: Get arrows so you can shoot others
+  start:
+    description: Start GangWars game so players can have fun
